@@ -1220,7 +1220,7 @@ killcast|30.ee81cfa|Manipulate Chromecast Devices in your Network.| blackarch-ex
 killerbee|398.748740d|Framework and tools for exploiting ZigBee and IEEE 802.15.4 networks.| blackarch-exploitation |https://github.com/riverloopsec/killerbee
 kimi|28.e7cafda|Script to generate malicious debian packages (debain trojans).| blackarch-backdoor |https://github.com/ChaitanyaHaritash/kimi
 kippo|287.b9eb06a|A medium interaction SSH honeypot designed to log brute force attacks and most importantly, the entire shell interaction by the attacker.| blackarch-honeypot |https://github.com/desaster/kippo
-kismet-earth|0.1|Various scripts to convert kismet logs to kml file to be used in Google Earth.| blackarch-wireless |https://www.blackarch.org/
+kismet-earth|0.1|Various scripts to convert kismet logs to kml file to be used in Google Earth.| blackarch-wireless |https://github.com/greenbone/openvas-scanner
 kismet2earth|1.0|A set of utilities that convert from Kismet logs to Google Earth .kml format| blackarch-wireless |http://code.google.com/p/kismet2earth/
 kismon|1.0.3|GUI client for kismet (wireless scanner/sniffer/monitor).| blackarch-wireless |https://www.salecker.org/software/kismon.html
 kiterunner|19.7d5824c|Contextual Content Discovery Tool.| blackarch-webapp |https://github.com/assetnote/kiterunner
